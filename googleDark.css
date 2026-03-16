@@ -39,21 +39,21 @@ body{
     
 }
 input[type="text"]{
-    width: 600px;
+    width: 620px;
     height: 50px;
     border-radius: 23px;
     border: none;
-    padding: 0 20px;
+    padding: 0 190px 0 56px;
     font-size: 16px;
     background-color: #585555ce;
     color: white;
     display: inline-block;
-    padding-left:40px;
+    box-sizing: border-box;
 }
 .add i{
     color: white;
     position: absolute;
-    left: 26%;
+    left: 28%;
     top: 50%;
     transform: translateY(-50%);
 }
